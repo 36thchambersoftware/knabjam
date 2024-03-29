@@ -4,3 +4,4 @@ config.yaml
 *.bin
 *.code-workspace
 knabjam/knabjam
+.DS_Store
