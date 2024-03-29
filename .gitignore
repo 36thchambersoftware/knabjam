@@ -1,0 +1,6 @@
+config.yaml
+.vscode
+*.log
+*.bin
+*.code-workspace
+knabjam/knabjam
